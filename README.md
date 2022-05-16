@@ -2,6 +2,7 @@
 Netflix clone build with themovieDB API
 https://netflixclone-tejas.web.app
 Functionalities include :
-1. Trailer option
-2. Hover effects and styling
-3. Responsive UI
+1. Auto-rendering 
+2. Trailer pop-up
+3. Hover effects and styling
+4. Responsive UI
